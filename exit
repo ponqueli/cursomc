@@ -1,0 +1,29 @@
+[33mcommit a320bb1df4c1a9d7997b57f8d953a9e0856cabd5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Jose Conto <joseantonioconto@gmail.com>
+Date:   Thu Jan 2 19:15:22 2020 -0300
+
+    Criando Repository e Service para Categoria
+
+[33mcommit f6eada1280ae13bba028a784fb8c37e2332e4aee[m
+Author: Jose Conto <joseantonioconto@gmail.com>
+Date:   Thu Jan 2 18:31:02 2020 -0300
+
+    Banco de dados H2 e criacao automatica da base de dados
+
+[33mcommit 1eec6f05a3344bbafe08355a970d0329d36f0f71[m
+Author: Jose Conto <joseantonioconto@gmail.com>
+Date:   Thu Jan 2 17:56:51 2020 -0300
+
+    Testando a primeira classe de dominio - Categoria
+
+[33mcommit a2dd983a52af0c25e8549e15fdd68b7eb2d7e5b7[m
+Author: Jose Conto <joseantonioconto@gmail.com>
+Date:   Thu Jan 2 17:08:17 2020 -0300
+
+    REST testado
+
+[33mcommit 207121435b6d7edef355c66e523676eec10c8d6a[m
+Author: Jose Conto <joseantonioconto@gmail.com>
+Date:   Thu Jan 2 16:32:50 2020 -0300
+
+    projeto criado
